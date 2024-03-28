@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radicaljj
-- 👀 I’m interested in cybersecurity, social engineering, app devlopment
-- 🌱 I’m currently learning cyber security blue
+- 👀 I’m interested in cybersecurity, social engineering, app devlopment, coding, computer engineering
+- 🌱 I’m currently learning cyber/digital forensics
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me cyberrdetective@gmail.com
 - 
