@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radicaljj
-- 👀 I’m interested in cybersecurity, social engineering, app devlopment, coding, computer engineering
+- 👀 I’m interested in cybersecurity,Digital Foensics, social engineering, app devlopment, coding, computer engineering
 - 🌱 I’m graduated from cyber/digital forensics with a Bachelors
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me cyberrdetective@gmail.com
