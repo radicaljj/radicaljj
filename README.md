@@ -3,7 +3,8 @@
 - 🌱 I’m graduated from cyber/digital forensics with a Bachelors and a masters degrees I have 4 degrees.
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me cyberrdetective@gmail.com
-- certifications Security+, Maldev, CAE, Paraben Mobile Operator.
+- certifications Security+, Maldev, CAE, Paraben Mobile Operator, network+.
+- Bsides volunteer 2026, Bsides Social media Coordinator.
 
 <!---
 radicaljj/radicaljj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
